@@ -33,7 +33,7 @@ This package can be installed via composer:
 
 ```composer require laravel-notification-channels/netgsm```
 
-### Setting up the SMS77 service
+### Setting up the NetGSM service
 
 1. Create an account and get the API key [here](https://www.netgsm.com.tr)
 
