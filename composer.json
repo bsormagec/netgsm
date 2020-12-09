@@ -1,5 +1,5 @@
 {
-    "name": "laravel-notification-channels/netgsm",
+    "name": "clevel/netgsm-notification-channel",
     "description": "NetGSM Provider for Laravel Notification Channels",
     "homepage": "https://github.com/laravel-notification-channels/netgsm",
     "license": "MIT",
